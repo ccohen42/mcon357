@@ -1,41 +1,24 @@
-﻿# MCON357 Flask Hello World Project
+# MCON357 Hello World Project
 
-A simple Hello World web application created with Flask for the MCON357 course.
+A simple Hello World web application for the MCON357 course.
 
 ## Features
 
-- Flask web application
+- Basic HTML structure
 - Styled with CSS
 - Interactive button using JavaScript
 - Displays current time when button is clicked
 
-## Setup and Installation
+## How to Run
 
 1. Clone this repository
-2. Create a virtual environment:
-   ```
-   python -m venv venv
-   ```
-3. Activate the virtual environment:
-   - Windows: `venv\Scripts\activate`
-   - Mac/Linux: `source venv/bin/activate`
-4. Install required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-5. Run the application:
-   ```
-   python run.py
-   ```
-6. Open http://127.0.0.1:5000/ in your browser
+2. Open index.html in your browser
 
 ## Project Structure
 
-- `/src` - Source code directory
-  - `/app` - Contains the Flask application
-    - `/static` - CSS and JavaScript files
-    - `/templates` - HTML templates
-- `run.py` - Script to run the application
+- `index.html` - Main HTML file
+- `script.js` - JavaScript functionality
+- `style.css` - CSS styling
 
 ## Author
 
