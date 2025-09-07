@@ -1,4 +1,4 @@
-﻿# MCON367 Hello World Project
+﻿# MCON357 Hello World Project
 
 A simple Hello World web application created for the MCON367 course.
 
