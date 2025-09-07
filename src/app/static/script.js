@@ -1,4 +1,4 @@
-﻿document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
     const greetButton = document.getElementById('greetButton');
     const output = document.getElementById('output');
     
