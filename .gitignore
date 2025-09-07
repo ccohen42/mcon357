@@ -21,3 +21,5 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+app.py
+start_flask.bat
